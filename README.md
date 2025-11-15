@@ -1,1 +1,76 @@
 # Praktikum4
+
+## Flowchart
+          ┌──────────────────────┐
+          │   Mulai Program      │
+          └──────────┬───────────┘
+                     │
+          ┌──────────▼───────────┐
+          │ Input Nama, NIM,      │
+          │ Nilai Tugas, UTS, UAS │
+          └──────────┬───────────┘
+                     │
+          ┌──────────▼───────────┐
+          │ Hitung Nilai Akhir   │
+          │ (0.30*T + 0.35*U +   │
+          │  0.35*UA)            │
+          └──────────┬───────────┘
+                     │
+          ┌──────────▼───────────┐
+          │ Simpan data ke list  │
+          └──────────┬───────────┘
+                     │
+          ┌──────────▼───────────┐
+          │ Tambah data (y/t)?   │
+          └───────┬─────┬────────┘
+                  │     │
+                y │     │ t
+                  │     │
+        ┌─────────▼     ▼────────┐
+        │ Kembali input data      │
+        │ (loop ulang)            │
+        └─────────┬──────────────┘
+                  │
+      ┌───────────▼───────────────┐
+      │ Tampilkan seluruh data     │
+      └───────────┬───────────────┘
+                  │
+      ┌───────────▼───────────────┐
+      │       Selesai              │
+      └────────────────────────────┘
+
+## Penjelasan
+Program Input Data Mahasiswa (Python)
+
+Program ini dibuat untuk memenuhi tugas praktikum: menambahkan data mahasiswa ke dalam sebuah list menggunakan perulangan, lalu menampilkan data dalam bentuk tabel.
+
+Fitur Program
+
+Meminta input data mahasiswa berupa:
+
+Nama
+
+NIM
+
+Nilai Tugas
+
+Nilai UTS
+
+Nilai UAS
+
+Menghitung nilai akhir berdasarkan bobot:
+
+Tugas: 30%
+
+UTS: 35%
+
+UAS: 35%
+
+Menyimpan data ke dalam list.
+
+Menampilkan pertanyaan:
+
+Tambah data (y/t)?
+
+
+Jika user memilih t, program menampilkan tabel seluruh data mahasiswa.
