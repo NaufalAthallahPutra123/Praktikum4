@@ -1,43 +1,9 @@
 # Praktikum4
+# Program Input Data Mahasiswa(python)
 
 ## Flowchart
-          ┌──────────────────────┐
-          │   Mulai Program      │
-          └──────────┬───────────┘
-                     │
-          ┌──────────▼───────────┐
-          │ Input Nama, NIM,      │
-          │ Nilai Tugas, UTS, UAS │
-          └──────────┬───────────┘
-                     │
-          ┌──────────▼───────────┐
-          │ Hitung Nilai Akhir   │
-          │ (0.30*T + 0.35*U +   │
-          │  0.35*UA)            │
-          └──────────┬───────────┘
-                     │
-          ┌──────────▼───────────┐
-          │ Simpan data ke list  │
-          └──────────┬───────────┘
-                     │
-          ┌──────────▼───────────┐
-          │ Tambah data (y/t)?   │
-          └───────┬─────┬────────┘
-                  │     │
-                y │     │ t
-                  │     │
-        ┌─────────▼     ▼────────┐
-        │ Kembali input data      │
-        │ (loop ulang)            │
-        └─────────┬──────────────┘
-                  │
-      ┌───────────▼───────────────┐
-      │ Tampilkan seluruh data     │
-      └───────────┬───────────────┘
-                  │
-      ┌───────────▼───────────────┐
-      │       Selesai              │
-      └────────────────────────────┘
+![flowchart](https://github.com/user-attachments/assets/6f616230-e4d5-439e-839b-b691fbe37879)
+
 
 ## Penjelasan
 Program Input Data Mahasiswa (Python)
