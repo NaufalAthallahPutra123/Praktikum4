@@ -46,7 +46,8 @@ Jika user memilih t, program menampilkan tabel seluruh data mahasiswa.
 <img width="1920" height="1080" alt="ss1" src="https://github.com/user-attachments/assets/9230e9ec-130b-49b6-8819-8288ab56aa0c" />
 
 ### Output
-<img width="1920" height="1080" alt="ss2" src="https://github.com/user-attachments/assets/7164f746-c95e-4a82-9b83-6ed8c255cb5f" />
+<img width="1920" height="1080" alt="ss" src="https://github.com/user-attachments/assets/c2642453-0031-4aad-8792-e45c7f9ae38e" />
+
 
 
 
